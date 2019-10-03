@@ -1,0 +1,14 @@
+{
+  "name": "Bigbom",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000010.png",
+  "description": "Bigbom serves as a decentralized advertising ecosystem for all parties involved in online advertising, inclusive of advertisers, service providers, content publishers, advertising channels, and more.",
+  "symbol": "BBOM",
+  "source": {
+    "github": "https://github.com/bigbomio"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/bigbom.global",
+    "telegram": "https://t.me/bigbomicogroup",
+    "twitter": ""
+  }
+}
