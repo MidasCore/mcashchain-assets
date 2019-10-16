@@ -1,0 +1,16 @@
+{
+  "address": "MEKeo29kLUVEdckZ65F9ZnZGpgEDJpshsb",
+  "name": "Tether USD",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/MEKeo29kLUVEdckZ65F9ZnZGpgEDJpshsb.png",
+  "description": "",
+  "symbol": "USDTM",
+  "source": {
+    "github": "https://github.com/tetherto"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/tether.to",
+    "telegram": "https://t.me/Tethergen",
+    "twitter": "https://twitter.com/Tether_to",
+    "linkedin": "https://www.linkedin.com/company/tether"
+  }
+}
