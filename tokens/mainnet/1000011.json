@@ -1,0 +1,14 @@
+{
+  "name": "MultiCoinCasino",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000011.png",
+  "description": "MultiCoinCasino is a gaming platform for consumers across various blockchain ecosystems to play, socialize, and stake.",
+  "symbol": "MCC",
+  "source": {
+    "github": "https://github.com/MultiCoinCasino"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/MultiCoinCasino",
+    "telegram": "https://t.me/multiCoincasino",
+    "twitter": ""
+  }
+}
