@@ -1,0 +1,16 @@
+{
+  "address": "MHNQKqLNtxaTzYFS224DqpphLBuqDX1rXB",
+  "name": "LuckyCoin",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/testnet/MHNQKqLNtxaTzYFS224DqpphLBuqDX1rXB.png",
+  "description": "",
+  "symbol": "LUCKY",
+  "source": {
+    "github": "https://github.com/MidasCore/mcashchain-assets/"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/midasprotocol.io",
+    "telegram": "https://t.me/midasprotocolglobal",
+    "twitter": "https://twitter.com/MidasProtocol"
+  },
+  "assets_uri": "https://m721.midasprotocol.com/lucky/${token_id}.json"
+}
