@@ -1,0 +1,16 @@
+{
+  "address": "MNHXu2Cpv2gtAdmzmpHRk4NbjZLmNgeHmG",
+  "name": "Mavatar",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/MNHXu2Cpv2gtAdmzmpHRk4NbjZLmNgeHmG.png",
+  "description": "",
+  "symbol": "MAV",
+  "source": {
+    "github": "https://github.com/MidasCore/mcashchain-assets/"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/midasprotocol.io",
+    "telegram": "https://t.me/midasprotocolglobal",
+    "twitter": "https://twitter.com/MidasProtocol"
+  },
+  "assets_uri": "https://m721.midasprotocol.com/mavatar/${token_id}.json"
+}
