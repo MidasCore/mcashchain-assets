@@ -1,0 +1,17 @@
+{
+  "address": "MJ8g4RSvxR3wYA3QzPu4aqWpt5kwiie2sL",
+  "name": "Mavatar",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/MJ8g4RSvxR3wYA3QzPu4aqWpt5kwiie2sL.png",
+  "description": "Finding The Other Half",
+  "link": "https://mcash.eco/find-your-other-half/",
+  "symbol": "LOVE",
+  "source": {
+    "github": "https://github.com/MidasCore/mcashchain-assets/"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/midasprotocol.io",
+    "telegram": "https://t.me/midasprotocolglobal",
+    "twitter": "https://twitter.com/MidasProtocol"
+  },
+  "assets_uri": "https://m721.midasprotocol.com/love/${token_id}.json"
+}
