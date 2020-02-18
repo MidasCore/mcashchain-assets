@@ -1,0 +1,14 @@
+{
+  "name": "MultiCoinShare",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000016.png",
+  "description": "MCS holders will earn from the Dividend Pool weekly. Tokens can be earned through playing games using MCC, by referring Multicoin games to new players, by receiving airdrop during promotional events.",
+  "symbol": "MCS",
+  "source": {
+    "github": "https://github.com/MultiCoinCasino"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/MultiCoinCasino",
+    "telegram": "https://t.me/multiCoincasino",
+    "twitter": ""
+  }
+}
