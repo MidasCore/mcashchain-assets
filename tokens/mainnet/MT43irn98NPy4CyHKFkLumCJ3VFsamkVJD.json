@@ -1,0 +1,17 @@
+{
+  "address": "MT43irn98NPy4CyHKFkLumCJ3VFsamkVJD",
+  "name": "StkDomeLot",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/MT43irn98NPy4CyHKFkLumCJ3VFsamkVJD.png",
+  "description": "StakingDome Land Parcel NFT",
+  "link": "https://stakingdome.com/",
+  "symbol": "SLOT",
+  "source": {
+    "github": "https://github.com/MidasCore/mcashchain-assets/"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/midasprotocol.io",
+    "telegram": "https://t.me/midasprotocolglobal",
+    "twitter": "https://twitter.com/MidasProtocol"
+  },
+  "assets_uri": "https://m721.midasprotocol.com/slot/${token_id}.json"
+}
