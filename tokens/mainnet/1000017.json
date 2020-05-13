@@ -1,0 +1,15 @@
+{
+  "name": "Tokoin",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000017.png",
+  "description": "Tokoin's mission is to facilitate trustworthy data exchange in a specified platform so that SMEs will be able to meet their needs for financing and business services without intermediaries",
+  "symbol": "TOKOM",
+  "source": {
+    "github": "https://github.com/tokoinofficial"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/tokoinglobal",
+    "telegram": "https://t.me/TokoinGlobal",
+    "twitter": "https://twitter.com/tokoinglobal",
+    "medium": "https://medium.com/@tokoin"
+  }
+}
