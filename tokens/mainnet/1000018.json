@@ -1,0 +1,15 @@
+{
+  "name": "FUN",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000018.png",
+  "description": "Play, Win, Share and Earn rewards with Play888.fun",
+  "symbol": "FUN",
+  "source": {
+    "github": "https://github.com/play888fun"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/play888fun",
+    "telegram": "https://t.me/play888fun",
+    "twitter": "https://twitter.com/play888fun",
+    "medium": "https://medium.com/@play888fun"
+  }
+}
