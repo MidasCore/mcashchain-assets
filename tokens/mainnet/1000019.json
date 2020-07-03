@@ -1,0 +1,15 @@
+{
+  "name": "MidasProtocol",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000019.png",
+  "description": "A smart, secure, user-friendly, multi-coin wallet for all essential crypto needs, from safekeeping, intelligent trading, portfolio management, easy conversion to fiat and spending of cryptocurrencies.",
+  "symbol": "MAS",
+  "source": {
+    "github": "https://github.com/MidasCore"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/MidasProtocol",
+    "telegram": "https://t.me/midasprotocolglobal",
+    "twitter": "https://twitter.com/MidasProtocol",
+    "medium": "https://medium.com/@MidasProtocol"
+  }
+}
