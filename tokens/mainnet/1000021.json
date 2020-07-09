@@ -1,0 +1,11 @@
+{
+  "name": "Dollars",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000021.png",
+  "description": "Digital money for netizen",
+  "symbol": "DLRS",
+  "source": {
+    "github": "https://github.com/DOLLAR-ONLINE/DOLLAR"
+  },
+  "social": {
+  }
+}
