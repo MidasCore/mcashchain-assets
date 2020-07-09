@@ -1,0 +1,15 @@
+{
+  "name": "TALK",
+  "image": "https://raw.githubusercontent.com/MidasCore/mcashchain-assets/master/tokens/mainnet/1000020.png",
+  "description": "TALK is the first to offer a true decentralized chat and voting program that won't rely on a central server to and lets you communicate freely with anyone in the world without censorship.",
+  "symbol": "TALK",
+  "source": {
+    "github": "https://github.com/TokenBot.ai"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/TokenBot",
+    "telegram": "https://t.me/TokenBot",
+    "twitter": "https://twitter.com/TokenBot",
+    "medium": "https://medium.com/@TokenBot"
+  }
+}
